@@ -1,0 +1,18 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Mob images on spawn eggs",
+        "name": "Recognizable_Spawn_Eggs",
+        "uuid": "77512dc9-0f67-4972-9c9d-c2074c7ffeec",
+        "version": [0, 0, 1],
+        "min_engine_version": [ 1, 19, 30 ]
+    },
+    "modules": [
+        {
+            "description": "",
+            "type": "resources",
+            "uuid": "4f467488-173b-4e30-8093-ffb92af2d319",
+            "version": [0, 0, 1]
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+   "resource_pack_name" : "vanilla",
+   "texture_data" : {
+      "spawn_egg_glow_squid" : { "textures" : "textures/items/egg_glow_squid" },
+      "spawn_egg_strider" : { "textures" : "textures/items/egg_strider" },
+      "spawn_egg_hoglin" : { "textures" : "textures/items/egg_hoglin" },
+      "spawn_egg_piglin" : { "textures" : "textures/items/egg_piglin" },
+      "spawn_egg_piglin_brute" : { "textures" : "textures/items/egg_piglin_brute" },
+      "spawn_egg_zoglin" : { "textures" : "textures/items/egg_zoglin" },
+      "spawn_egg_allay" : { "textures" : "textures/items/egg_allay" },
+      "spawn_egg_axolotl" : { "textures" : "textures/items/egg_axolotl" },
+      "spawn_egg_frog" : { "textures" : "textures/items/egg_frog" },
+      "spawn_egg_goat" : { "textures" : "textures/items/egg_goat" },
+      "spawn_egg_tadpole" : { "textures" : "textures/items/egg_tadpole" },
+      "spawn_egg_trader_llama" : { "textures" : "textures/items/egg_trader_llama" },
+      "spawn_egg_warden" : { "textures" : "textures/items/egg_warden" }
+   }
+}
