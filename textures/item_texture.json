@@ -13,6 +13,11 @@
       "spawn_egg_goat" : { "textures" : "textures/items/egg_goat" },
       "spawn_egg_tadpole" : { "textures" : "textures/items/egg_tadpole" },
       "spawn_egg_trader_llama" : { "textures" : "textures/items/egg_trader_llama" },
-      "spawn_egg_warden" : { "textures" : "textures/items/egg_warden" }
+      "spawn_egg_warden" : { "textures" : "textures/items/egg_warden" },
+      "spawn_egg_polarbear" : { "textures" : "textures/items/egg_polarbear" },
+      "spawn_egg_iron_golem" : { "textures" : "textures/items/egg_iron_golem" },
+      "spawn_egg_snow_golem" : { "textures" : "textures/items/egg_snow_golem" },
+      "spawn_egg_sniffer" : { "textures" : "textures/items/egg_sniffer" },
+      "spawn_egg_camel" : { "textures" : "textures/items/egg_camel" }
    }
 }

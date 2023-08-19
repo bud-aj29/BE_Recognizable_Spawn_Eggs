@@ -3,15 +3,15 @@
     "header": {
         "description": "Mob images on spawn eggs",
         "name": "Recognizable_Spawn_Eggs",
-        "uuid": "77512dc9-0f67-4972-9c9d-c2074c7ffeec",
-        "version": [0, 0, 1],
-        "min_engine_version": [ 1, 19, 30 ]
+        "uuid": "130c3902-2063-43c6-9dd3-6888bb76fdab",
+        "version": [0, 0, 2],
+        "min_engine_version": [ 1, 20, 10 ]
     },
     "modules": [
         {
             "description": "",
             "type": "resources",
-            "uuid": "4f467488-173b-4e30-8093-ffb92af2d319",
+            "uuid": "730cd7c1-7d28-44e8-89c5-02285a05748c",
             "version": [0, 0, 1]
         }
     ]
